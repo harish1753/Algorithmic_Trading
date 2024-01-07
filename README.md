@@ -1,0 +1,3 @@
+# Algorithmic_Trading
+Building a report analysis based on market and predicting stock predication, whether going up or down. 
+xplore this GitHub repository dedicated to Algorithmic Trading, where advanced trading strategies are implemented using various indicators such as Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), and more. Gain insights into algorithmic trading techniques, backtesting methodologies, and the integration of key indicators to enhance trading decision-making. Whether you're a seasoned trader or an enthusiast looking to delve into algorithmic trading, this repository provides a comprehensive resource for understanding and implementing strategies that leverage MACD, RSI, and other indicators in the dynamic financial markets
